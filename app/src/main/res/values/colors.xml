@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1b1b1b</color>
+    <color name="colorPrimaryDark">#1b1b1b</color>
+    <color name="colorAccent">#1b1b1b</color>
+    <color name="back">#ffffff</color>
+    <color name="frag">#ffffff</color>
+    <color name="frag2">#ffffff</color>
+    <color name="boutton">#ff6c02</color>
+</resources>

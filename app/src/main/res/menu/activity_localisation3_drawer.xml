@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item>
+        <menu>
+            <item
+                android:id="@+id/nav_ligne"
+                android:icon="@drawable/ic_menu_share2"
+                android:title="Votre position" />
+            <item
+                android:id="@+id/nav_carte"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Afficher Carte" />
+
+            <item
+                android:id="@+id/nav_deco"
+                android:icon="@drawable/ic_menu_send2"
+                android:title="Deconnexion" />
+        </menu>
+    </item>
+
+</menu>
